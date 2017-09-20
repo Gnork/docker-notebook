@@ -9,6 +9,7 @@ python3-numpy \
 python3-scipy \
 python3-pandas \
 python3-matplotlib \
+python3-seaborn \
 python3-scikit-learn \
 python3-scikit-image \
 python3-bleach \
